@@ -1,0 +1,26 @@
+
+
+bruna@ERORIZ MINGW64 /c
+$ cd /c/PROJETOS/JAVA
+
+bruna@ERORIZ MINGW64 /c/PROJETOS/JAVA
+$ LS
+Aula1  Aula1.java  CURSO
+
+bruna@ERORIZ MINGW64 /c/PROJETOS/JAVA
+$ javac Aula1.java
+
+bruna@ERORIZ MINGW64 /c/PROJETOS/JAVA
+$ ls
+Aula1  Aula1.class  Aula1.java  CURSO
+
+bruna@ERORIZ MINGW64 /c/PROJETOS/JAVA
+
+$bruna@ERORIZ MINGW64 /c/PROJETOS/JAVA
+$ java Aula1
+Boas vindas ao curso de Java
+
+
+ * Para compilar: javac <nome do arquivo>Aula1.java
+ 
+ * Para executar : java Aula1

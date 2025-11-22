@@ -1,0 +1,26 @@
+Explicação do Código:
+public class HelloWorld:
+
+Todo código Java reside dentro de uma classe.
+
+HelloWorld é o nome que demos à classe (e o nome do arquivo deve ser HelloWorld.java).
+
+public significa que a classe pode ser acessada de qualquer lugar.
+
+public static void main(String[] args):
+
+Esta é o método principal (main method), o ponto de entrada onde a execução de qualquer programa Java começa.
+
+public e static são modificadores que permitem que a máquina virtual Java (JVM) encontre e execute este método.
+
+void significa que o método não retorna nenhum valor.
+
+String[] args é um array que pode receber argumentos de linha de comando.
+
+System.out.println("Hello, World!");:
+
+Esta é a instrução que faz o trabalho.
+
+System.out é um objeto que representa o fluxo de saída padrão (o console).
+
+println é um método que imprime o texto fornecido dentro das aspas e, em seguida, insere uma nova linha.

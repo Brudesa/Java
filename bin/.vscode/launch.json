@@ -1,0 +1,77 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Qtd_Salario_Minimo",
+      "request": "launch",
+      "mainClass": "Exercicios.Qtd_Salario_Minimo",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Qtd_Salario_Minimo",
+      "request": "launch",
+      "mainClass": "Exercicios.Qtd_Salario_Minimo",
+      "projectName": "TREINAMENTO_e5a53a94"
+    },
+    {
+      "type": "java",
+      "name": "Exerc_valor_area_terreno",
+      "request": "launch",
+      "mainClass": "Exerc_valor_area_terreno",
+      "projectName": "TREINAMENTO_e5a53a94"
+    },
+    {
+      "type": "java",
+      "name": "Exerc_Velocidade_media_veiculo",
+      "request": "launch",
+      "mainClass": "Exerc_Velocidade_media_veiculo",
+      "projectName": "TREINAMENTO_e5a53a94"
+    },
+    {
+      "type": "java",
+      "name": "VariaveisConcatenacaDados",
+      "request": "launch",
+      "mainClass": "VariaveisConcatenacaDados",
+      "projectName": "TREINAMENTO_e5a53a94"
+    },
+    {
+      "type": "java",
+      "name": "ExercDadosTeclado",
+      "request": "launch",
+      "mainClass": "ExercDadosTeclado",
+      "projectName": "TREINAMENTO_e5a53a94"
+    },
+    {
+      "type": "java",
+      "name": "ExercLeitDadosTeclado",
+      "request": "launch",
+      "mainClass": "ExercLeitDadosTeclado",
+      "projectName": "TREINAMENTO_e5a53a94"
+    },
+    {
+      "type": "java",
+      "name": "LeituraDadosTeclado",
+      "request": "launch",
+      "mainClass": "LeituraDadosTeclado",
+      "projectName": "TREINAMENTO_e5a53a94"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "TREINAMENTO_e5a53a94"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+/****** * Concatenação de Dados* ******/ 
+
+Concatenação significa juntar informações (dados) para formar uma única coisa.
+
+Na programação, geralmente usamos concatenação de strings, que são textos. 
+Ou seja, é juntar dois ou mais textos para formar um novo texto.
+
+Imagine que você tem duas palavras:
+
+"Olá"
+
+"mundo"
+
+Se você concatenar essas palavras, o resultado será:
+
+
+
+"Olámundo"
+
+
+Exemplo simples em Java:
+
+
+public class Main {
+        public static void main(String[] args) {
+        String nome = "Bruna";
+        String sobrenome = "de Sá";
+        
+        //O resultado impressora será Bruna de Sá
+        //O simbolo + quando inserido entre duas palavras "strings", faz com
+        //que o conteúdo seja concatenado, ou seja, os valores serao colocados 
+        //um na frente do outro
+        System.out.println(nome + sobrenome);
+
+        //Neste caso o resultado será bruna  de Sá
+        //Note que sera juntado um espaço entre o nome e sobrenome. Este espaco
+        //precisa ser escrita entre as aspas
+        System.out.println(nome + " " + sobrenome);
+        }    
+}
+Explicação:
+
+- Criamos duas variáveis do tipo String (texto) nome e sobrenome.
+
+- Usamos o símbolo + para juntar (concatenar) as variáveis.
+
+- O resultado foi impresso na tela.
+
+Bruna de Sá
+
+Concatenando texto com número:
+Você também pode concatenar texto com números. O número será transformado em texto automaticamente.
+
+public class Main { 
+      public static void main(String[] args) {
+           String nome = "Maria"; 
+           int idade = 30; 
+           String frase = nome + " tem " + idade + " anos."; 
+
+           //Sera impresso na tela: Maria tem 30 anos. 
+           System.out.println(frase); 
+      } 
+}
+
+
+Exemplo direto no System.out.println:
+public class Main { 
+      public static void main(String[] args) { 
+          String nome = "Lucas"; 
+          int idade = 25; 
+
+          //O nome é Lucas e a idade é 25 anos.
+          System.out.println("O nome é " + nome + " e a idade é " + idade + " anos."); 
+      } 
+}
+O que acontece aqui:
+"O nome é " é uma String.
+
+nome é uma variável do tipo String.
+
+" e a idade é " é outra String.
+
+idade é uma variável do tipo int (número).
+
+" anos." também é uma String.
+
+O operador + concatena tudo em uma única mensagem.
+
+️ Dica para iniciantes:
+Sempre que você usar o operador + com pelo menos uma String, o Java vai tratar tudo como texto.
+
+Para deixar o texto mais legível, lembre-se de incluir espaços quando necessário:
+
+
+"Olá,  " + nome     
+
+"Olá," + nome

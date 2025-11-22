@@ -1,0 +1,203 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CalculadoraFinanceira",
+      "request": "launch",
+      "mainClass": "CalculadoraFinanceira",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "PagamentoCompra",
+      "request": "launch",
+      "mainClass": "PagamentoCompra",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "CaixaSupermercado",
+      "request": "launch",
+      "mainClass": "CaixaSupermercado",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "GerenciamentoDeAlunos",
+      "request": "launch",
+      "mainClass": "GerenciamentoDeAlunos",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "gerenciamentoDeAlunos",
+      "request": "launch",
+      "mainClass": "gerenciamentoDeAlunos",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "RefatoracaoSDR",
+      "request": "launch",
+      "mainClass": "RefatoracaoSDR",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "MediaAluno",
+      "request": "launch",
+      "mainClass": "MediaAluno",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "faixaSalarial",
+      "request": "launch",
+      "mainClass": "faixaSalarial",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "AumentoSalarial",
+      "request": "launch",
+      "mainClass": "AumentoSalarial",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "tabuada",
+      "request": "launch",
+      "mainClass": "tabuada",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "validadorCPF",
+      "request": "launch",
+      "mainClass": "validadorCPF",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "ValidadorCPF",
+      "request": "launch",
+      "mainClass": "ValidadorCPF",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "ValidaCPF",
+      "request": "launch",
+      "mainClass": "ValidaCPF",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "PostoCombustivel",
+      "request": "launch",
+      "mainClass": "PostoCombustivel",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "Lanchonete",
+      "request": "launch",
+      "mainClass": "Lanchonete",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "mediaNotas",
+      "request": "launch",
+      "mainClass": "mediaNotas",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "MediaDuasNotas",
+      "request": "launch",
+      "mainClass": "MediaDuasNotas",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "CalculadoraImc",
+      "request": "launch",
+      "mainClass": "CalculadoraImc",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "calculadoraImc",
+      "request": "launch",
+      "mainClass": "calculadoraImc",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "mediaAlunos",
+      "request": "launch",
+      "mainClass": "mediaAlunos",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "FolhaPagto",
+      "request": "launch",
+      "mainClass": "FolhaPagto",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "Granja",
+      "request": "launch",
+      "mainClass": "Granja",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "QtdFerraduras",
+      "request": "launch",
+      "mainClass": "QtdFerraduras",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "SalarioMineFunc",
+      "request": "launch",
+      "mainClass": "SalarioMineFunc",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "Sanduiches",
+      "request": "launch",
+      "mainClass": "Sanduiches",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "TerrenoImobiliaria",
+      "request": "launch",
+      "mainClass": "TerrenoImobiliaria",
+      "projectName": "Exercicios_a36d8e7c"
+    }
+  ]
+}
